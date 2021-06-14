@@ -1,2 +1,1 @@
-# cwnametags-assets
-assets for clockwork nametags.
+# ignore this
